@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h2 { color: rgb(251,111,146) ;
+}
+
+ body {
+   background-image: url("/Images/catinthesea.png");
+ }
