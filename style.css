@@ -9,3 +9,48 @@ h2 { color: rgb(251,111,146) ;
  body {
    background-image: url("/Images/catinthesea.png");
  }
+
+.title {
+  color: lightcyan;
+}
+.header {
+  color: lightsalmon;
+  background-color: lightcyan;
+  text-align: center;
+  padding: 15px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: navajowhite;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.content {
+  background-color: antiquewhite;
+  padding: 10px;
+  height: 300px;
+}
+.column {
+  float: left;
+}
+.column.side {
+  width: 30%;
+}
+.column.middle {
+  width: 70%;
+}
+.footer {
+  background-color: lightpink;
+  padding: 10px;
+  text-align: center;
+}
